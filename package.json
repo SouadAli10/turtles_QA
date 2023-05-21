@@ -1,0 +1,10 @@
+{
+  "scripts": {
+  "start": "cypress open",
+  "cypress:headless": "cypress run"
+
+},
+  "dependencies": {
+    "cypress": "^12.12.0"
+  }
+}
